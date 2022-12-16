@@ -1,0 +1,6 @@
+Your mission is collect keys by kill monster
+Press W S A D to move
+Press SPACE to attack monster
+Press P to open shop
+Press E,R to use skill
+Press ESC to open setting
